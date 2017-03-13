@@ -1,0 +1,8 @@
+resolver: ghc-7.10
+extra-deps:
+- HUnit-1.5.0.0
+- call-stack-0.1.0
+- mtl-2.2.1
+- parsec-3.1.11
+- text-1.2.2.1
+
